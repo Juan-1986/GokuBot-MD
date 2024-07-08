@@ -37,19 +37,19 @@ global.miniurl = fs.readFileSync('./storage/img/miniurl.jpg')
 
 // •┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•「⎋〘 𝙂𝙤𝙠𝙪𝘽𝙤𝙩-𝙈𝘿 〙⎋」•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•
 
-global.imagen1 = ''
-global.imagen2 = ''
-global.imagen3 = ''
-global.imagen4 = ''
-global.imagen5 = ''
+global.imagen1 = 'https://i.postimg.cc/zDQbpFk0/GokuBot1.jpg'
+global.imagen2 = 'https://i.postimg.cc/mgfcWZJ9/GokuBot2.jpg'
+global.imagen3 = 'https://i.postimg.cc/HnrJdrTw/GokuBot3.jpg'
+global.imagen4 = 'https://i.postimg.cc/fy1VLMb6/GokuBot4.jpg'
+global.imagen5 = 'https://i.postimg.cc/vH61KxqM/Goku-Bot-10.jpg'
 
 // •┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•「⎋〘 𝙂𝙤𝙠𝙪𝘽𝙤𝙩-𝙈𝘿 〙⎋」•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•
 
-global.img1 = ''
-global.img2 = ''
-global.img3 = ''
-global.img4 = ''
-global.img5 = ''
+global.img1 = 'https://i.postimg.cc/zDQbpFk0/GokuBot1.jpg'
+global.img2 = 'https://i.postimg.cc/mgfcWZJ9/GokuBot2.jpg'
+global.img3 = 'https://i.postimg.cc/HnrJdrTw/GokuBot3.jpg'
+global.img4 = 'https://i.postimg.cc/fy1VLMb6/GokuBot4.jpg'
+global.img5 = 'https://i.postimg.cc/vH61KxqM/Goku-Bot-10.jpg'
 
 // •┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•「⎋〘 𝙂𝙤𝙠𝙪𝘽𝙤𝙩-𝙈𝘿 〙⎋」•┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄•
 
