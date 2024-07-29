@@ -1,7 +1,38 @@
 {
   "name": "GokuBot-MD",
-  "description": "Bot beta con mikimas funciones.",
+  "website": "https://github.com/ByJuan1986/GokuBot-MD",
+  "description": "Mejor Bot",
   "repository": "https://github.com/ByJuan1986/GokuBot-MD",
-  "logo": "",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "GokuBot-MD", "MultiBot-OFC", "Goku Bot MD"]
+  "logo": "https://raw.githubusercontent.com/ByJuan1986/GokuBot-MD/master/src/pictures/heroku-icon.jpg",
+  "success_url": "https://github.com/ByJuan1986/GokuBot-MD",
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "bot",
+    "bots",
+    "bot",
+    "spanish",
+    "whatsapp",
+    "termux",
+    "goku",
+    "multi-device",
+    "md",
+    "whatsappbot",
+    "oficial",
+    "whatsapp-md",
+    "gokubot-md",
+    "goku-bot",
+    "goku-bot-md"],
+  "image": "heroku/nodejs",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    }    
+ ]
 }
