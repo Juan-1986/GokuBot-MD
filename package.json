@@ -1,6 +1,6 @@
 {
   "name": "GokuBot-MD",
-  "version": "1.9.5",
+  "version": "1.7.5",
   "description": "Bot de WhatsApp.",
   "main": "index.js",
   "type": "module",
