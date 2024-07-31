@@ -34,11 +34,11 @@ global.creador = 'https://wa.me/573108625104'
 
 //┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•『 GokuBot-MD 』
 //└┈•➣ Imagenes aleatorios.
-global.img1 = ''
-global.img2 = ''
-global.img3 = ''
-global.img4 = ''
-global.img5 = ''
+global.img1 = 'https://i.postimg.cc/vH61KxqM/Goku-Bot-01.jpg'
+global.img2 = 'https://i.postimg.cc/zDQbpFk0/Goku-Bot-02.jpg'
+global.img3 = 'https://i.postimg.cc/HnrJdrTw/Goku-Bot-03.jpg'
+global.img4 = 'https://i.postimg.cc/fy1VLMb6/Goku-Bot-04.jpg'
+global.img5 = 'https://i.postimg.cc/mgfcWZJ9/Goku-Bot-05.jpg'
 global.img6 = ''
 global.img7 = ''
 global.img8 = ''
