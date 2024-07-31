@@ -22,8 +22,8 @@ global.vs = '1.7.5'
 
 //┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•『 GokuBot-MD 』
 //└┈•➣ Cuentas y otros.
-global.yt = ''
-global.fb = ''
+global.yt = 'https://youtube.com/@mundodragonballgokubot?si=rliPoKGjsyMLndBJ'
+global.fb = 'https://www.facebook.com/groups/992399634839160/'
 global.md = 'https://github.com/ByJuan1986/GokuBot-MD'
 global.paypal = ''
 global.telegram = ''
