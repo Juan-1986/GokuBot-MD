@@ -18,6 +18,7 @@ global.textobot = '• WhatsApp Bot •'
 global.wm = '𝙂𝘰𝘬𝘶𝘽𝘰𝘵-𝙈𝘋 │ ᵇʸʲᵘᵃⁿ¹⁹⁸⁶'
 global.wm2 = '🪐 𝙂𝙊𝙆𝙐𝘽𝙊𝙏 │ ʷʰᵃᵗˢᵃᵖᵖ-ᵇᵒᵗ 🪐'
 global.des = '• WhatsApp bot multi device.'
+global.vs = '1.7.5'
 
 //┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•『 GokuBot-MD 』
 //└┈•➣ Cuentas y otros.
@@ -28,6 +29,7 @@ global.paypal = ''
 global.telegram = ''
 global.grupo1 = ''
 global.ig = ''
+global.asistencia = 'https://wa.me/5493873232221'
 global.creador = 'https://wa.me/573108625104'
 
 //┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•『 GokuBot-MD 』
