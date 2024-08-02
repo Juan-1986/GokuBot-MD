@@ -41,7 +41,7 @@ global.wm2 = '🪐 𝙂𝙊𝙆𝙐𝘽𝙊𝙏 │ ʷʰᵃᵗˢᵃᵖᵖ-ᵇᵒ
 global.des = '• WhatsApp bot multi device.';
 global.vs = '1.7.5';
 
-global.gokuImgs = [https://i.postimg.cc/RV01Qdzs/Goku-21.jpg]
+gokuImgs = [img1, img1, img3, img4]
 global.gokuImagens = [https://i.postimg.cc/X7Df25jV/Goku-22.jpg]
 global.gokuAll = [https://i.postimg.cc/wx2cmPnR/Goku-23.jpg]
 
