@@ -60,37 +60,37 @@ global.creador = 'https://wa.me/573108625104';
 
 //┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•『 GokuBot-MD 』
 //└┈•➣ Imagenes aleatorios.
-global.img1 = '';
-global.img2 = '';
-global.img3 = '';
-global.img4 = '';
-global.img5 = '';
-global.img6 = '';
-global.img7 = '';
-global.img8 = '';
-global.img9 = '';
-global.img10 = '';
+global.img1 = 'https://i.postimg.cc/vH61KxqM/Goku-Bot-01.jpg';
+global.img2 = 'https://i.postimg.cc/zDQbpFk0/Goku-Bot-02.jpg';
+global.img3 = 'https://i.postimg.cc/HnrJdrTw/Goku-Bot-03.jpg';
+global.img4 = 'https://i.postimg.cc/fy1VLMb6/Goku-Bot-04.jpg';
+global.img5 = 'https://i.postimg.cc/mgfcWZJ9/Goku-Bot-05.jpg';
+global.img6 = 'https://i.postimg.cc/vmJ2C93F/Goku-06.jpg';
+global.img7 = 'https://i.postimg.cc/KztpbzHK/goku-07.jpg';
+global.img8 = 'https://i.postimg.cc/fRgrj1db/goku-08.jpg';
+global.img9 = 'https://i.postimg.cc/jjwk8v64/Goku-09.jpg';
+global.img10 = 'https://i.postimg.cc/Twz8q1KQ/Goku-10.jpg';
 
 
 //┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•『 GokuBot-MD 』
 //└┈•➣ otros imagenes aleatorios.
-global.imagen1 = '';
-global.imagen2 = '';
-global.imagen3 = '';
-global.imagen4 = '';
-global.imagen5 = ''; 
+global.imagen1 = 'https://i.postimg.cc/Y0Y5X7g7/Goku-11.jpg';
+global.imagen2 = 'https://i.postimg.cc/KcThcPWW/Goku-12.jpg';
+global.imagen3 = 'https://i.postimg.cc/HsCDrJDk/Goku-13.jpg';
+global.imagen4 = 'https://i.postimg.cc/tTHt3HXW/Goku-14.jpg';
+global.imagen5 = 'https://i.postimg.cc/nhCkZkRj/Goku-15.jpg'; 
 
 
 //┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•『 GokuBot-MD 』
 //└┈•➣ Apartado de menus.
-global.gokuMenu1 = ''; 
-global.gokuMenu2 = ''; 
-global.gokuMenu3 = ''; 
+global.gokuMenu1 = 'https://i.postimg.cc/nhCkZkRj/Goku-15.jpg'; 
+global.gokuMenu2 = 'https://i.postimg.cc/7hK3rGSn/Goku-18.jpg'; 
+global.gokuMenu3 = 'https://i.postimg.cc/k4FNwh4Z/Goku-19.jpg'; 
 
 
 //┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•『 GokuBot-MD 』
 //└┈•➣ Apartado de mensionar al bot y mandar un sticker img
-global.gokuStick = ''
+global.gokuStick = 'https://i.postimg.cc/vH61KxqM/Goku-Bot-01.jpg'
 
 
 //┌┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈•『 GokuBot-MD 』
